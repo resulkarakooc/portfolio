@@ -281,6 +281,17 @@ h1 {
     text-transform: uppercase;
 }
 
+.project a{
+    text-decoration: none;
+    font-size: 24px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+}
+
 .project-tools-container ul {
     display: flex;
     justify-content: flex-start;
@@ -694,7 +705,7 @@ footer p {
         width: 540px;
         height: 450px;
         margin-top: 69px;
-        cursor: pointer;
+        
 
     }
 
@@ -950,7 +961,7 @@ footer p {
         width: 540px;
         height: 487px;
         margin-top: 69px;
-        cursor: pointer;
+        
     }
 
     .project-container figure {
