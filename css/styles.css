@@ -1043,4 +1043,12 @@ footer p {
         margin: 0;
         padding: 0;
     }
+
+    #version{
+        color: azure;
+        font-size: 15px;
+        letter-spacing: 5px;
+        font-family: 'Space Grotesk', sans-serif;
+        
+    }
 }
